@@ -1,4 +1,5 @@
-### Hi there 👋
+![baiyan0707's github stats](https://github-readme-stats.vercel.app/api?username=baiyan0707&theme=radical) 
+
 
 <!--
 **baiyan0707/baiyan0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
