@@ -1,4 +1,7 @@
+#### Hi i'm baiyan
 ![baiyan0707's github stats](https://github-readme-stats.vercel.app/api?username=baiyan0707&theme=nightowl) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baiyan0707&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
