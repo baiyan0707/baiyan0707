@@ -4,7 +4,7 @@
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baiyan0707&theme=tokyonight)
 
-![GitHub Contributions](https://github-contributions-api.deno.dev/baiyan0707.svg?scheme=github-dark)
+![GitHub Contributions](https://github-contributions-api.deno.dev/baiyan0707.svg?scheme=lightblue)
 
 <!--
 **baiyan0707/baiyan0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
